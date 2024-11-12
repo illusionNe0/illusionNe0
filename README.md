@@ -4,7 +4,7 @@
 
 ---
 
-## 🤓 Me
+## 🦋 Me
 
 - **Name:** Daryn Imash
 - **Current Role:** Student at NU (Nazarbayev University)
@@ -34,9 +34,9 @@
 
 ## 🌐 Contacts
 - ⚡️ **Telegram: @illusionNeo** - Fastest way to contact with me
+- 📧 **Email: illusionneodi@gmail.com** - Another way to contact
 - 💬 **[Instagram](https://www.instagram.com/cobalionn/)** - My publications and blah blah blah
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/daryn-imash-212345311/)**
-- 📧 **Email: illusionneodi@gmail.com**
 - 🪬 **[Portfolio Website](#)**
 
 ---
