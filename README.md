@@ -1,4 +1,4 @@
-# Greetings, homo sapiensese!
+# Greetings, homo sapienses!
 
 **This is the matrix of illusionNe0**
 
