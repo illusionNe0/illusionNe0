@@ -6,7 +6,7 @@
 
 ## 🦋 Me
 
-- **Name:** Daryn Imash
+- **Name:** Daryn
 - **Current Role:** Doing nothing
 - **Interests:** No
 
