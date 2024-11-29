@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tools & Technologies
 
 🐍 Python | ⚡ NumPy | 📊 Pandas | 📈 Matplotlib | 🗄️ SQL
 
