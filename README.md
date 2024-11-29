@@ -7,8 +7,8 @@
 ## 🦋 Me
 
 - **Name:** Daryn Imash
-- **Current Role:** Student at NU (Nazarbayev University)
-- **Interests:** Android development, programming, problem solving (LeetCode, Yandex Contests, etc.), studying math and physics in free time, learning new things that can be applied in real world.
+- **Current Role:** Doing nothing
+- **Interests:** No
 
 ---
 
