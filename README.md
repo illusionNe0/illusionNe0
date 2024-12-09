@@ -1,7 +1,5 @@
 # Greetings, homo sapienses!
 
-**This is the matrix of illusionNe0**
-
 ---
 
 ## 🦋 Me
