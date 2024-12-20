@@ -21,7 +21,7 @@
 ---
 
 ## 🌐 Contacts
-- ⚡️ **Telegram: @illusionNeo** - Fastest way to contact me
+- ⚡️ **Telegram: @illusionne0** - Fastest way to contact me
 - 📧 **Email: illusionneodi@gmail.com** - Another way to contact
 
 ---
